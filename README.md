@@ -19,6 +19,7 @@ i will posts my leetcode solutions on this repo.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kartik-rAWAT/leetcode/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -33,4 +34,8 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kartik-rAWAT/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
