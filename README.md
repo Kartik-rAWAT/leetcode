@@ -10,6 +10,7 @@ i will posts my leetcode solutions on this repo.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-rAWAT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kartik-rAWAT/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kartik-rAWAT/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -21,6 +22,7 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-rAWAT/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-rAWAT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,4 +50,8 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
