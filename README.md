@@ -16,4 +16,16 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kartik-rAWAT/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Array
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
