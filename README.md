@@ -25,6 +25,7 @@ i will posts my leetcode solutions on this repo.
 | [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-rAWAT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/Kartik-rAWAT/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -40,6 +41,7 @@ i will posts my leetcode solutions on this repo.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Kartik-rAWAT/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
