@@ -33,6 +33,7 @@ i will posts my leetcode solutions on this repo.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0344-reverse-string) |
 | [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -58,4 +59,8 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
