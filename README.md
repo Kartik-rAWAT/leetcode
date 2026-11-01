@@ -39,6 +39,7 @@ i will posts my leetcode solutions on this repo.
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3838-weighted-word-mapping](https://github.com/Kartik-rAWAT/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -58,6 +59,7 @@ i will posts my leetcode solutions on this repo.
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,9 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
