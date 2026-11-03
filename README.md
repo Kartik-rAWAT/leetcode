@@ -23,6 +23,7 @@ i will posts my leetcode solutions on this repo.
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-rAWAT/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Kartik-rAWAT/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-rAWAT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kartik-rAWAT/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kartik-rAWAT/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0344-reverse-string) |
@@ -56,6 +58,7 @@ i will posts my leetcode solutions on this repo.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-rAWAT/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +66,7 @@ i will posts my leetcode solutions on this repo.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
