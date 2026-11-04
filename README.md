@@ -27,6 +27,7 @@ i will posts my leetcode solutions on this repo.
 | [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-rAWAT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Kartik-rAWAT/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Kartik-rAWAT/leetcode/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ i will posts my leetcode solutions on this repo.
 | [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -69,10 +71,12 @@ i will posts my leetcode solutions on this repo.
 | [0049-group-anagrams](https://github.com/Kartik-rAWAT/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kartik-rAWAT/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartik-rAWAT/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kartik-rAWAT/leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,10 +93,23 @@ i will posts my leetcode solutions on this repo.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-rAWAT/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Kartik-rAWAT/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kartik-rAWAT/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
