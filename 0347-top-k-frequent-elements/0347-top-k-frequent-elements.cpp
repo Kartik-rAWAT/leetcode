@@ -4,7 +4,6 @@ public:
         unordered_map<int, int> freq;
         for (int n : nums) freq[n]++;
 
-        // bucket[i] holds the numbers that appear exactly i times
         vector<vector<int>> bucket(nums.size() + 1);
         for (auto& [num, count] : freq) {
             bucket[count].push_back(num);
